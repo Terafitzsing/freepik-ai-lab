@@ -42,4 +42,4 @@ No extra dependencies — download and run.
 The release provided here is scanned before it's published.
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.         
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.          
